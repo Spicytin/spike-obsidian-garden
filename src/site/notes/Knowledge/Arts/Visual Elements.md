@@ -3,12 +3,12 @@
 ---
 
 ## Line
-This refers to a prolongation of a point, or a mark on a surface. **Solid lines** can be used in order to define ==form==, while **broken lines** are typically used to suggest ==hidden forms==. **Lines** are also used to suggest ==dimensions==, and to ==guide visual movement==.
+This refers to a ==prolongation of a point, or a mark on a surface==. **Solid lines** can be used in order to define ==form==, while **broken lines** are typically used to suggest ==hidden forms==. **Lines** are also used to suggest ==dimensions==, and to ==guide visual movement==.
 
 ![Pasted image 20250703063727.png](/img/user/References/Arts/Images/Pasted%20image%2020250703063727.png)
 
 ## Shape and Mass
-This element of art refers to an area with boundaries identified or drawn using lines. A shape may be based on natural or living forms. This shape is called an **organic shape**, and can be ==irregular== or ==rounded==. A shape may also be based on measured forms. This shape, on the other hand, is called a **geometric shape**. In contrast to shape, which is ==two-dimensional==, **mass** refers to ==solid portions of a three-dimensional object==.
+This element of art refers to an ==area with boundaries identified or drawn using lines==. A shape may be based on natural or living forms. This shape is called an **organic shape**, and can be ==irregular== or ==rounded==. A shape may also be based on measured forms. This shape, on the other hand, is called a **geometric shape**. In contrast to shape, which is ==two-dimensional==, **mass** refers to ==solid portions of a three-dimensional object==.
 
 ![Pasted image 20250703063801.png](/img/user/References/Arts/Images/Pasted%20image%2020250703063801.png)
 

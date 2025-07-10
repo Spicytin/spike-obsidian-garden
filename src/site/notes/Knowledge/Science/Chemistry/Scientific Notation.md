@@ -9,6 +9,9 @@ To be in proper scientific notation, the number must be written with:
 
 ## Examples
 
+> [!note]
+> Short notation = long notation
+
 1. $1.37 \times 10^8 = 137,000,000$
 2. $3.47 \times 10^5 = 347,000$
 3. $9.02 \times 10^8= 902,000,000$
