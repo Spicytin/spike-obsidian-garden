@@ -7,4 +7,4 @@
 
 Hi.
 
-You can find all my published notes at the left (desktop) or top left (mobile) of your screen.
+You can find all my published notes at the left (on mobile, press the hamburger icon at the top left) of your screen.
