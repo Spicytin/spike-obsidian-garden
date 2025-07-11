@@ -51,7 +51,7 @@
 ## Forms of Creative Nonfiction
 
 > [!note]
-> * Short forms' word count is typically around ==750-5,000 words==.
+> * The word count of short forms of Creative Nonfiction is typically around ==750-5,000 words==.
 > * Long forms is around ==50,000-100,000 words==.
 
 | Short forms                       | Long forms        |
