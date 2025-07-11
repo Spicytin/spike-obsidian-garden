@@ -48,24 +48,22 @@
 | Dialogue can be made up.                                | Dialogue is verbatim or recreated to the best of the author's ability. |
 | The plot can be made up long the way.                   | Events truly happen. Written as accurately and truthful as possible.   |
 |                                                         | Research may be used when necessary.                                   |
-## Short forms of Creative Nonfiction
-Word count is typically around ==750-5,000 words==.
+## Forms of Creative Nonfiction
 
-* **Personal essay**
-* **Lyrical essay**
-* **Travel essay or article**
-* **Food article**
-* **Profile**
-* **Literary journalism**
-* **Science and nature writing**
-* **Mosaic, vignette, or hybrid piece**
+> [!note]
+> * Short forms' word count is typically around ==750-5,000 words==.
+> * Long forms is around ==50,000-100,000 words==.
 
-## Longer forms of Creative Nonfiction
-Usually in ==book-length or 50,000-100,000 words==.
+| Short forms                       | Long forms        |
+| --------------------------------- | ----------------- |
+| Personal essay                    | Memoirs           |
+| Lyrical essay                     | Autobiography     |
+| Travel essay or article           | Biography         |
+| Food article                      | Nonfiction novels |
+| Profile                           |                   |
+| Literary journalism               |                   |
+| Science and nature writing        |                   |
+| Mosaic, vignette, or hybrid piece |                   |
 
-* **Memoirs**
-* **Autobiography**
-* **Biography**
-* **Nonfiction novels**
 
 
