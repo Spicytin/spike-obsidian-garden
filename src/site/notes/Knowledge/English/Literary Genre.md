@@ -53,4 +53,4 @@
 5. **Speech** - formal address or discourse delivered to an audience
 6. **Textbook** - short piece of writing about a particular subject. Usually shows the author's point of view.
 7. **Diary** - book in which one keeps a daily record of events and experiences.
-8. **Anecdote** - interesting story about a real incident or person.
+8. **Anecdote** - short amusing or interesting story about a real incident or person.
