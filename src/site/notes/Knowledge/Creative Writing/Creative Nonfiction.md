@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/knowledge/creative-writing/creative-nonfiction/"}
 ---
 
-**Nonfiction** - a ==true story== told in a literary way where plot, character development, and dialogue are as important as the facts and research. 
+**Nonfiction** - a true story told in a ==literary way== where plot, character development, and dialogue are as important as the ==facts and research==. 
 
 **Creative Nonfiction** has many names:
 1. **Narrative Nonfiction**
