@@ -50,7 +50,7 @@
 2. **Autobiography** - books that people write about their own life. It is written in first person point of view.
 3. **Informational Writing** - texts that provide facts about a variety of topics.
 4. **Essay** - short piece of writing about a particular subject. Usually shows the author's point of view.
-5. **Speech** - formal address or discourse delivered to an audience**
+5. **Speech** - formal address or discourse delivered to an audience
 6. **Textbook** - short piece of writing about a particular subject. Usually shows the author's point of view.
 7. **Diary** - book in which one keeps a daily record of events and experiences.
 8. **Anecdote** - interesting story about a real incident or person.
