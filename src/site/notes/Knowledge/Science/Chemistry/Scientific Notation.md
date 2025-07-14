@@ -4,8 +4,8 @@
 
 ## Rules
 To be in proper scientific notation, the number must be written with:
-* ==A number between 1 and 10==; and
-* ==multiplied by a power of ten==
+* A number between 1 and 10; and
+* multiplied by a power of ten
 
 ## Examples
 
