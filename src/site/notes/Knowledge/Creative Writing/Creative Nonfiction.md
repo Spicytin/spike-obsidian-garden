@@ -31,7 +31,7 @@
 ![200](https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg) 
 ***Michel de Montaigne*** was a 16th century French writer. He coined the term "==***essais***==" ("***essays***" in English) to write himself introspectively.
 ![200](https://upload.wikimedia.org/wikipedia/commons/8/86/Head-Shot-Closed-Jacket-2015.jpg) 
-***Lee Gutkind*** defines that **Creative Nonfiction** allows a writer to employ the ==diligence of a reporter==, the ==shifting voices and viewpoints of a novelist==, the ==refined wordplay of a poet==, and the ==analytical modes of the essayist==.
+***Lee Gutkind*** is the ==Godfather of Creative Nonfiction==. He defines that **Creative Nonfiction** allows a writer to employ the ==diligence of a reporter==, the ==shifting voices and viewpoints of a novelist==, the ==refined wordplay of a poet==, and the ==analytical modes of the essayist==.
 
 ## Reasons
 1. You want to write a family history of a journal for future generations.
