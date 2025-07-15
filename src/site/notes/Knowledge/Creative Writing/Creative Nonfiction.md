@@ -15,16 +15,16 @@
 ### Fiction:
 * Invented from the writer's imagination.
 * Utilizes plot structures and conventions to tell a story.
-* Research is woven into the story.
-* Themes are usually exploring implicitly.
+* Research is ==woven== into the story.
+* Themes are usually exploring ==implicitly==.
 ### Nonfiction:
 * Occurred in the real world.
 * Follows the plot of a story that actually happened.
-* Research is stated and cited within the story.
-* Themes are usually stated explicitly.
+* Research is ==stated and cited== within the story.
+* Themes are usually stated ==explicitly==.
 ### Both:
 * Require the interplay of plot, characters, and settings to explore themes and ideas.
-* Are written in prose.
+* Are written in ==prose==.
 * Are written to entertain, inform, enlighten, challenge, and/or move the reader.
 
 ## Brief History
