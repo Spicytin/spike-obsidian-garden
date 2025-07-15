@@ -9,9 +9,11 @@ There are two kinds of words:
 
 ## What do we mean when we say? / Idioms 
 
-* **Green Thumb** - exceptional in gardening skills
-* **Tying the Knot** - get married
-* **Flea & Flea Market** - a bazaar
+| Idiom                  | Meaning                         |
+| ---------------------- | ------------------------------- |
+| **Green Thumb**        | Exceptional in gardening skills |
+| **Tying the Knot**     | Get married                     |
+| **Flea & Flea Market** | A bazaar                        |
 
 ## Genre
 * French word means the classification of the ==variety== and ==diversity==.
