@@ -29,7 +29,7 @@ Who else could give this monumental piece of advice other than ***Socrates***? T
 
 But what happens when you do that? The busyness leads to unproductiveness. You end up doing many things in a mediocre way. Instead, focus your time and energy on a few important things.
 
-[Don't take on more tasks and responsibilities.](https://dariusforoux.com/clarity/)We often want to get more out of life. But that doesn't mean you have to do more things.
+[Don't take on more tasks and responsibilities.](https://dariusforoux.com/clarity/) We often want to get more out of life. But that doesn't mean you have to do more things.
 
 That's why the most important productivity lesson is to understand that it's not about doing more — it's about doing the same in less time. We'll get to HOW you do that later.
 
