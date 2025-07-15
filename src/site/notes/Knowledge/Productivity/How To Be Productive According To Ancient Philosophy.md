@@ -27,7 +27,7 @@ Let's start by learning the following 7 productivity lessons from the most well-
 
 Who else could give this monumental piece of advice other than ***Socrates***? The founder of Western philosophy realized that it's easy to fill your life with meaningless tasks.
 
-But what happens when you do that? The busyness leads to unproductiveness. You end up doing many things in a mediocre way. Instead, focus your time and energy on a few important things.
+But what happens when you do that? ==The busyness leads to unproductiveness==. You end up doing many things in a mediocre way. Instead, focus your time and energy on a few important things.
 
 [Don't take on more tasks and responsibilities.](https://dariusforoux.com/clarity/) We often want to get more out of life. But that doesn't mean you have to do more things.
 
@@ -38,7 +38,7 @@ That's why the most important productivity lesson is to understand that it's not
 
 \- ***Plato***
 
-Time is a paradoxical concept. Life is long. But our days are short. We can achieve a lot in a lifetime. We can achieve little in a day.
+**Time** is a paradoxical concept. Life is long. But our days are short. We can achieve a lot in a lifetime. We can achieve little in a day.
 
 Once you realize that, you won't try to do the impossible on an average day. Take it easy. Make small progress every day. Do that by only setting 3–4 important tasks that will directly contribute to what you want to achieve in life.
 
@@ -51,7 +51,7 @@ But realize that your days are short — only set 3–4 tasks you want to comple
 
 \- ***Aristotle***
 
-Set goals. But don't stare yourself blind on them. Instead, give your attention to the job itself.
+Set goals. But don't stare yourself blind on them. Instead, ==give your attention to the job itself==.
 
 It's easy to daydream about all the things we want to do in the future. But that puts us in the wrong state of mind. We risk sacrificing the present for the future. No matter how hard you work today, never see it as a sacrifice.
 
@@ -62,9 +62,9 @@ You will end up resenting yourself. Instead, [enjoy your work.](https://dariusfo
 
 \- ***Marcus Aurelius***
 
-Elimination is a key strategy for every productive person. You shouldn't only eliminate non-essential tasks, but everything that distracts you.
+**Elimination** is a key strategy for every productive person. You shouldn't only eliminate non-essential tasks, but ==everything that distracts you==.
 
-The more you eliminate, the more focus and tranquility you have. Look at yourself as a sculptor. You've been given a massive stone. Your task is to eliminate so much until you end up with a perfect piece of art.
+==The more you eliminate, the more focus and tranquility you have==. Look at yourself as a sculptor. You've been given a massive stone. Your task is to eliminate so much until you end up with a perfect piece of art.
 
 Is social media polluting your soul? Eliminate it. Are some people causing you hurt and drama? Eliminate them from your life. Continue eliminating everything else that has a negative impact on your sanity and productivity.
 
@@ -75,9 +75,9 @@ Is social media polluting your soul? Eliminate it. Are some people causing you h
 
 As the famous Roman biographer ***Plutarch*** realized, the ego loves praise, but also blame. In fact, your ego loves any type of attention.
 
-At all times, refuse to please your ego. All you have to do is to be aware that you have an ego. Most people live their lives without ever realizing their ego is hurting their work.
+At all times, refuse to please your ego. All you have to do is to ==be aware that you have an ego==. Most people live their lives without ever realizing their ego is hurting their work.
 
-When you excessively blame yourself for things that go wrong, you end up hating yourself — and ultimately, everyone else. And when you do the opposite, you end up loving yourself in an unhealthy way. That's also called narcissism. A little never hurts.
+When you excessively blame yourself for things that go wrong, you end up hating yourself — and ultimately, everyone else. And when you do the opposite, you end up loving yourself in an unhealthy way. That's also called **narcissism**. A little never hurts.
 
 But when you overdo it, you sacrifice the quality of your work. Hence, don't blame or praise yourself. Instead, celebrate the process, not the outcomes.
 
