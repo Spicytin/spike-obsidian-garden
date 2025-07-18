@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/resources-data/knowledge/arts/painting/"}
 ---
 
-process of ==applying colors on a flat surface==. It is considered ==two dimensional==, meaning ==it only has height and width==.
+Process of ==applying colors on a flat surface==. It is considered ==two dimensional==, meaning ==it only has height and width==.
 
 ## Surfaces for Painting
 1. wood
