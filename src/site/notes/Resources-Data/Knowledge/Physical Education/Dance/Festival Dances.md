@@ -40,6 +40,7 @@ Cultural dances performed to the ==strong beats of percussion instruments== by a
 | **Baragatan**        | Palawan              | Gathering of people   | June      |
 | **T'nalak**          | South Cotabato       | Tinalak cloth weaving | July      |
 | **Masskara**         | Bacolod City         | Mask (Sugar industry) | October   |
+
 If you are planning to participate in these group dances, take note that injuries may occur when a person engages in **Moderate to Vigorous Physical Activity** (***MVPA***). **Dancing** is a ==vigorous activity==. Some people get injured when they are not in proper condition. No proper warm-up and stretching before you dance or exercise can also lead to injuries.
 
 ## Most common injuries
