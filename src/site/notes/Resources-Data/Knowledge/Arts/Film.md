@@ -6,7 +6,7 @@ Refers to a ==sequence of moving pictures==, which is typically shown on televis
 
 Some of these filmmakers were educated on art films that were created outside the constraints of commercial filmmaking. These filmmakers, called **alternative filmmakers**, started producing ==highly critical and imaginative works==. These alternative films include **animations**, **traditional documentaries**, **docudramas**, **experimental films**, **mixed media**, **short features**, and many others. However, these films were usually shown in schools, international film festivals, and outreach programs organized by some institutions.
 
-The subject of films shifted to ==social commentaries during the dictatorship== in the 1980s. On the other hand, the 1990s was marked with the ==persistence of mainstream formats and imitations==. There were also stereotypical tendencies in creating films for specific audiences. For instance, **melodramas** were continued to be produced in order to cater to the ==female population===, while **action films** were crated for ==male patronage==.
+The subject of films shifted to ==social commentaries during the dictatorship== in the 1980s. On the other hand, the 1990s was marked with the ==persistence of mainstream formats and imitations==. There were also stereotypical tendencies in creating films for specific audiences. For instance, **melodramas** were continued to be produced in order to cater to the ==female population==, while **action films** were crated for ==male patronage==.
 
 ## Elements of Film
 ### Time
