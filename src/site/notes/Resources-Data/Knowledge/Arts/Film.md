@@ -9,7 +9,7 @@ Some of these filmmakers were educated on art films that were created outside th
 The subject of films shifted to ==social commentaries during the dictatorship== in the 1980s. On the other hand, the 1990s was marked with the ==persistence of mainstream formats and imitations==. There were also stereotypical tendencies in creating films for specific audiences. For instance, **melodramas** were continued to be produced in order to cater to the ==female population==, while **action films** were crated for ==male patronage==.
 
 ## Elements of Film
-* **Time** - this is considered as the most significant element of cinema. It has three aspects:
+* **Time** - considered as the most significant element of cinema. It has three aspects:
 
 | **Aspect**             | **Description**                                                                                                                                                                                                                                 |
 | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ The subject of films shifted to ==social commentaries during the dictatorship== 
 * **Framing** - helps in ==bringing balance to the film== as it is being viewed. **Framing** can also get the attention of the audience, and sustain that attention.
 
 ## Forms and Types of Film
-* **Aksyon** (***Action***) - an American-influenced type of film that mainly uses ==physical conflict== as emphasis. There are two types of **action films**. First one is ==based on real-life stories== or actual experiences of real persons. An example of this is ***Nardong Putik*** (*1972*) which starred *Ramon Revilla Sr*. The other type of **action films**, which is centered on ==purely fictional events==, may be based from the ==tradition of metrical romance== or of the **literary komedya**, or with ==contemporary issues==. 
+* **Aksyon** (***Action***) - American-influenced type of film that mainly uses ==physical conflict== as emphasis. There are two types of **action films**. First one is ==based on real-life stories== or actual experiences of real persons. An example of this is ***Nardong Putik*** (*1972*) which starred *Ramon Revilla Sr*. The other type of **action films**, which is centered on ==purely fictional events==, may be based from the ==tradition of metrical romance== or of the **literary komedya**, or with ==contemporary issues==. 
 * **Animation** - involves creating ==illustrations== or ==inanimate objects== and bringing them to life. **Single-frame photography** was used to capture images of a ==series of arranged drawings==. These shots are then run in the movie projector on ==10 or 24 frames per second==. There are three types of **animation**:
 
 | **Type**                 | **Description**                                                                                                                                                                                                                                                                                                                                                             |
