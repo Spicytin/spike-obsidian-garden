@@ -11,14 +11,22 @@ The subject of films shifted to ==social commentaries during the dictatorship== 
 ## Elements of Film
 ### Time
 This is considered as the most significant element of cinema. It has three aspects:
-* **Physical Time** - refers to ==time for an action to take place== as it is being filmed and projected on the screen. This can be altered through **accelerated motion**, **slow motion**, **stopped motion** and **reverse motion**.
-* **Psychological Time** - refers to the impression of the viewer on ==how long does it take for a certain action to take place== and ==how he or she feels== when watching that particular action. For instance, a viewer feels excited when watching fast action scenes.
-* **Dramatic Time** - signifies the ==timeline of events== portrayed in the film.
+
+| **Aspect**             | **Description**                                                                                                                                                                                                                                 |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Physical Time**      | Refers to ==time for an action to take place== as it is being filmed and projected on the screen. This can be altered through **accelerated motion**, **slow motion**, **stopped motion** and **reverse motion**.                               |
+| **Psychological Time** | Refers to the impression of the viewer on ==how long does it take for a certain action to take place== and ==how he or she feels== when watching that particular action. For instance, a viewer feels excited when watching fast action scenes. |
+| **Dramatic Time**      | Signifies the ==timeline of events== portrayed in the film.                                                                                                                                                                                     |
+
 ### Space
 Just like in a painting or a photograph, a film, when projected on the screen has ==two dimensions==. However, the viewer is ale to perceive space because of the following aspects of space:
-* **Scale** - indicates the ==size of the objects== on the screen and how these objects ==relate with the area== surrounding them. It may also involve where the camera is positioned in taking the shot. For example, when camera is situated very far from the object, an expansive view on a small scale is produced. In this case, the viewer will be able to take note of the relationship between the objects showed in the film.
-* **Shooting angle** - ==denotes the location or angle== from where the camera records the scene. Shots may be taken with the camera directed vertically downwards, vertically upwards, or horizontally. Each position or angle will have a different effect on the scene that is being recorded.
-* **Lighting** - the position of lights can affect how the illusion of depth is created on the film. The relationship of light and dark on the object can give that illusion of depth to the object.
+
+| **Aspect**         | **Description**                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Scale**          | Indicates the ==size of the objects== on the screen and how these objects ==relate with the area== surrounding them. It may also involve where the camera is positioned in taking the shot. For example, when camera is situated very far from the object, an expansive view on a small scale is produced. In this case, the viewer will be able to take note of the relationship between the objects showed in the film. |
+| **Shooting angle** | ==denotes the location or angle== from where the camera records the scene. Shots may be taken with the camera directed vertically downwards, vertically upwards, or horizontally. Each position or angle will have a different effect on the scene that is being recorded.                                                                                                                                                |
+| **Lighting**       | The position of lights can affect how the illusion of depth is created on the film. The relationship of light and dark on the object can give that illusion of depth to the object.                                                                                                                                                                                                                                       |
+
 ### Sound
 Aside from **dialogue**, **sound** also includes **background music**, **theme melodies**, and **silence**.
 
@@ -39,7 +47,6 @@ An American-influenced type of film that mainly uses ==physical conflict== as em
 ### Animation
 Involves creating ==illustrations== or ==inanimate objects== and bringing them to life. **Single-frame photography** was used to capture images of a ==series of arranged drawings==. These shots are then run in the movie projector on ==10== or ==24 frames per second==. There are three types of **animation**:
 
-
 | **Type**                 | **Description**                                                                                                                                                                                                                                                                                                                                                             |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Drawn animation**      | Involves the ==use of drawings== for a certain image. In this type of **animation**, a single movement requires creating another image on a separate sheet of **celluloid** (***cel***) or **acetate sheet**. **Acrylic colors** are used in creating drawings on **cel** or **acetate**.                                                                                   |
@@ -51,7 +58,6 @@ Primarily depicts ==nudity and sex==, became popular from 1970s up to 1990s. Kno
 
 ### Dokyu (*Documentary*)
 ==Narrates or discusses news events==. It may also explain other subject based on ==facts==. The director may add **fiction** to the subject. There are five types of the **dokyu**:
-
 
 | **Type**                    | **Description**                                                                 |
 | --------------------------- | ------------------------------------------------------------------------------- |
@@ -78,7 +84,6 @@ Shown to ==bring fear to the audience==. It includes ==supernatural beings== lik
 
 ### Komedi (*Comedy*)
 The aim of this film is to ==induce laugher in the audience==. There are two types of **komedi**:
-
 
 | **Type**             | **Description**                                                                                                                           |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
