@@ -34,7 +34,7 @@ There are two kinds of words:
 	* **Romance** - a love story.
 	* **Science fiction** - a story in the future with advanced technologies
 	* **Thriller/suspense** - makes readers nervous or excited.
-2. **Non-fiction** - refers to **literature** based in fact. It's the ==broadest category of literature==. This includes different categories including **biography**, **business**, **cooking**, **health and fitness**, **pets**, **crafts**, **home decorating**, **languages**, **travel**, **religion**, **art and music**, **history**, **crime**, **science**, and humor.
+2. **Non-fiction** - **literature** based in fact. It's the ==broadest category of literature==. This includes different categories including **biography**, **business**, **cooking**, **health and fitness**, **pets**, **crafts**, **home decorating**, **languages**, **travel**, **religion**, **art and music**, **history**, **crime**, **science**, and humor.
 	* **Biography** - a story of a person's life
 	* **Autobiography** - the author writes about himself/herself.
 	* **Narrative** - happened in real life.

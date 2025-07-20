@@ -27,8 +27,8 @@
 4. **Horror** - in which events evoke a feeling of fright in both the characters and the reader.
 5. **Mystery** - dealing with the solution of a crime or the unraveling of secrets.
 6. **Realistic Fiction** - stories that could actually "happen" in real life. The setting is realistic, the characters speak and act like real people, and the story describes real-life problems and events.
-7. **Fable** - a short story, usually with animal characters, that teaches a lesson about what is important in life.
-8. **Folk Tale** - Story told generation to generation, usually by word of mouth. Sometimes different versions in different cultures, original storyteller is unknown, and can involve animals, wishes, magic, trickery and often the number 3.
+7. **Fable** - short story, usually with animal characters, that teaches a lesson about what is important in life.
+8. **Folk Tale** - story told generation to generation, usually by word of mouth. Sometimes different versions in different cultures, original storyteller is unknown, and can involve animals, wishes, magic, trickery and often the number 3.
 9. **Myths** - early people's way to explain the universe. Many gods are goddesses are present in **myths** and are super human in nature. Also, human emotions are experienced by the gods, magic is often present, and gods sometimes appear in disguised form.
 10. **Legend** - handed down from the past that people tell as a "true story" but sometimes the details are difficult to confirm. The person telling the story usually does not claim to be an eyewitness to the events, but "heard" it from someone who knows someone who heard it from someone who was "really" there... **Legends** often contain a moral or a lesson and are told to uphold the values of the community. They often involve supernatural or religious elements.
 11. **Tall Tale**
