@@ -58,7 +58,7 @@ The subject of films shifted to ==social commentaries during the dictatorship== 
 * **Fantasy** - depicts scenes in an ==imaginary world==. **Komiks stories**, **folklore**, and **science fiction** all fall under **fantasy**.
 * **Historical** - shows actual events that ==occurred in the past==. It may depict real stories of famous persons, or historical events and places that are recreated in the film.
 * **Horror** - shown to ==bring fear to the audience==. It includes ==supernatural beings== like **ghosts**, **goblins**, **vampires**, and **imaginary monsters** to the story. This genre is ==very appealing to most Filipinos==, and it may be attracted to the fondness of the Filipino for the supernatural and the unknown.
-* **Komedi** (***Comedy***) - The aim of this film is to ==induce laugher in the audience==. There are two types of **komedi**:
+* **Komedi** (***Comedy***) - the aim of this film is to ==induce laugher in the audience==. There are two types of **komedi**:
 
 | **Type**             | **Description**                                                                                                                           |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
