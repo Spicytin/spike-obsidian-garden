@@ -37,6 +37,8 @@ The **color wheel**, which is an ==arrangement of primary, secondary, and tertia
 | **Triadic**             | Uses ==three colors== that are of ==equal distance with each other==.                                                                                              | ![Triadic](https://libapps.s3.amazonaws.com/accounts/164556/images/TRIADIC_COLORS.png)                         |
 | **Tetradic**            | Also known as **double complementary color scheme**, this uses ==two pairs== of **complementary colors**.                                                          | ![Tetradic](https://libapps.s3.amazonaws.com/accounts/164556/images/TETRADIC_COLORS.png)                       |
 
+****
+
 * **Value** - ==lightness or darkness of an area==. This element is evident in ==creating shadows== for a two-dimensional object to give an ==illusion of depth==.
 * **Texture** - ==feel or appearance of a surface==. A person may describe **texture** if the surface is either ==smooth== or ==rough==. **Texture** may also be described as ==actual== or ==implied==. **Actual texture** can be ==felt tangibly== based on the material that is used for the artwork. On the other hand, **implied texture** can be ==exhibited==, for instance, in a painting of fur of an animal.
 * **Space** - area that is ==occupied by an object or a subject==, as well as the ==area surrounding that object or subject==. An illusion of space can still be created in a two-dimensional surface using **perspective**. There are two types of **perspective**: **atmospheric perspective**, which utilizes the ==properties of light and air== in depicting the ==illusion of distance==; and **linear perspective**, which involves the ==use of vanishing points== and ==receding hidden lines==.
