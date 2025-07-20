@@ -13,7 +13,7 @@
 * **Color** - visual perception that allows a person to ==differentiate objects== due to the way various wavelengths of light are reflected. **Color** is a very important element because it can ==communicate information and emotion to the viewer==. It has three properties, which are as follows:
 	* **Hue** - basic or pure color, and is represented in the **color wheel**.
 	* **Value** - lightness and darkness of color. A light color or **tint** is the result of adding white to a hue, while a dark color or **shade** results from adding black to a hue.
-![HueTintShade](https://cdn.shopify.com/s/files/1/0734/5933/5401/files/tint_tone_shade.jpg?v=1747250381&width=1440)
+	![HueTintShade](https://cdn.shopify.com/s/files/1/0734/5933/5401/files/tint_tone_shade.jpg?v=1747250381&width=1440)
 	* **Saturation** - brightness and dullness of color. It is also referred to as purity of the color. A bright color can be produced by adding more pigment to the same hue, while a dull color can be produced by adding gray or the color's complement to the pigment.
 
 The **color wheel**, which is an ==arrangement of primary, secondary, and tertiary colors==, is an important tool to identify which colors can work well if used in a certain artwork. Those sets of colors are referred to as **color schemes** or **color relationships**. 
