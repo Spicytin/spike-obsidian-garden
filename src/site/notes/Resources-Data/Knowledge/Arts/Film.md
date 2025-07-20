@@ -40,11 +40,11 @@ An American-influenced type of film that mainly uses ==physical conflict== as em
 Involves creating ==illustrations== or ==inanimate objects== and bringing them to life. **Single-frame photography** was used to capture images of a ==series of arranged drawings==. These shots are then run in the movie projector on ==10== or ==24 frames per second==. There are three types of **animation**:
 
 
-| **Type**                 | **Description**                                                                                                                                                                                                                                                                                                                                                         |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Drawn animation**      | Involves the ==use of drawings== for a certain image. In this type of **animation**, a single movement requires creating another image on a separate sheet of **celluloid** (***cel***) or **acetate sheet**. **Acrylic colors** are used in creating drawings on **cel** or **acetate**.                                                                               |
-| **Cut-out animation**    | Involves cutting out images from photos, cardboard, or other flat materials. A **collage** is formed out of these materials. This process is simpler, relatively cheaper and does not take too much time. However, this is not popular among filmmakers because the final output does not have the ==smooth flow of movement== compared to that in **drawn animation**. |
-| **Model/live animation** | Involves moving ==three-dimensional objects== made from **sand**, **clay**, **wire**, or other solid objects. These movements are recorded by camera.                                                                                                                                                                                                                   |
+| **Type**                 | **Description**                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Drawn animation**      | Involves the ==use of drawings== for a certain image. In this type of **animation**, a single movement requires creating another image on a separate sheet of **celluloid** (***cel***) or **acetate sheet**. **Acrylic colors** are used in creating drawings on **cel** or **acetate**.                                                                                   |
+| **Cut-out animation**    | Involves ==cutting out images== from photos, cardboard, or other flat materials. A **collage** is formed out of these materials. This process is simpler, relatively cheaper and does not take too much time. However, this is not popular among filmmakers because the final output does not have the ==smooth flow of movement== compared to that in **drawn animation**. |
+| **Model/live animation** | Involves moving ==three-dimensional objects== made from **sand**, **clay**, **wire**, or other solid objects. These movements are recorded by camera.                                                                                                                                                                                                                       |
 
 ### Bomba
 Primarily depicts ==nudity and sex==, became popular from 1970s up to 1990s. Known as "***bold***", "***wet look***", and "***ST***", **Bomba** is different from **X-rated pornography**.
@@ -53,13 +53,13 @@ Primarily depicts ==nudity and sex==, became popular from 1970s up to 1990s. Kno
 ==Narrates or discusses news events==. It may also explain other subject based on ==facts==. The director may add **fiction** to the subject. There are five types of the **dokyu**:
 
 
-| **Type**                    | **Description**                                                             |
-| --------------------------- | --------------------------------------------------------------------------- |
-| **Film journalism**         | Reports ==events based on facts== and gives emphasis on timeliness.         |
-| **General-interest film**   | Primarily informs the public on a particular subject (e.g. **travelogue**). |
-| **Nature documentaries**    | Brings ==knowledge about the physical world==.                              |
-| **Committed documentaries** | Tackles ==social problems and issues== like injustice and poverty.          |
-| **Cinema direct**           | Presents ==reality== using a unique point of view, language, and technique. |
+| **Type**                    | **Description**                                                                 |
+| --------------------------- | ------------------------------------------------------------------------------- |
+| **Film journalism**         | Reports ==events based on facts== and gives emphasis on timeliness.             |
+| **General-interest film**   | Primarily ==informs the public== on a particular subject (e.g. **travelogue**). |
+| **Nature documentaries**    | Brings ==knowledge about the physical world==.                                  |
+| **Committed documentaries** | Tackles ==social problems and issues== like injustice and poverty.              |
+| **Cinema direct**           | Presents ==reality== using a unique point of view, language, and technique.     |
 
 ### Drama
 Dwells on ==personal problems and conflicts==. **Drama** draws ==sentiment and emotion==. It is typically meant to be a ==tearjerker==.
