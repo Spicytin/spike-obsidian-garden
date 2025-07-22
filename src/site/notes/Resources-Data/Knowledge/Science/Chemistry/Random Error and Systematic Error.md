@@ -23,7 +23,7 @@ $$\% \text{error} = \frac{\text {Experimental value} - \text{True value}}{\text 
 	   $\% \text{error} = \left| \dfrac{-0.2}{5.0} \right| \times 100\%$
 	3. Divide:
 	   $\% \text{error} = \left| -0.04 \right| \times 100\%$
-	4. Remove the Negative Sign (Absolute Value):
+	4. Remove the Negative Sign and Absolute Value:
 	   $\% \text{error} = 0.04 \times 100\%$
 	5. Multiply by 100 to Get the Percentage:
 	   $\% \text{error} = 4\%$
@@ -34,7 +34,7 @@ $$\% \text{error} = \frac{\text {Experimental value} - \text{True value}}{\text 
 	   $\% \text{error} = \left| \dfrac{-0.5}{25.0} \right| \times 100\%$
 	3. Divide:
 	   $\% \text{error} = \left| -0.02 \right| \times 100\%$
-	4. Remove the Negative Sign (Absolute Value):
+	4. Remove the Negative Sign and Absolute Value:
 	   $\% \text{error} = 0.02 \times 100\%$
 	5. Multiply by 100 to Get the Percentage:
 	   $\% \text{error} = 2\%$
