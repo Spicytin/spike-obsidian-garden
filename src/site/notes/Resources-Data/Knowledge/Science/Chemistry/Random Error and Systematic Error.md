@@ -50,6 +50,6 @@ $$\% \text{error} = \frac{\text {Experimental value} - \text{True value}}{\text 
 	5. Multiply by 100 to Get the Percentage:
 	   $\% \text{error} = 1.5 \%$
 
-## Videos
+## Video Tutorial
 
 <iframe src="https://www.youtube.com/embed/JbEo46uV6d4" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
