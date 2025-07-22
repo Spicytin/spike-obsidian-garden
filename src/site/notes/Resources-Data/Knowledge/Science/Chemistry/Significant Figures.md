@@ -38,7 +38,7 @@ Digits in any measurement that are known with ==certainty== with an additional o
 > In scientific notation, $1.243 \times 10^-3 = .001243$
 
 
-## Examples of Significant Figures
+## Examples
 1. $2365mm = 4$
 	* All nonzero digits are significant. 
 2. $309cm = 3$
