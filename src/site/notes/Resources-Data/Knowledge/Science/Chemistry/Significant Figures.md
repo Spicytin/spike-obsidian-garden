@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/resources-data/knowledge/science/chemistry/significant-figures/"}
 ---
 
-Digits in any measurement that are known with ==certainty== with an additional one digit which is ==uncertain==
+Digits in any measurement that are known with ==certainty== with an additional one digit which is ==uncertain==.
 ## Rules
 1. All nonzero digits are significant.
 	   Example:
