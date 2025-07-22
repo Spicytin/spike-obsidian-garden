@@ -41,4 +41,4 @@ Four students performed an experiment to measure the density of aluminum ($2.7 g
 
 ## Video Tutorial
 
-![](https://www.youtube.com/watch?v=0IiHPKAvo7g)
+<iframe src="https://www.youtube.com/embed/0IiHPKAvo7g" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

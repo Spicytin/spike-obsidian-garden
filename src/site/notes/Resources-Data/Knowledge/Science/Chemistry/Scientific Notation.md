@@ -27,4 +27,4 @@ To be in proper scientific notation, the number must be written with:
 
 ## Video Tutorial
 
-![](https://www.youtube.com/watch?v=ZtB0vJMGve4)
+<iframe src="https://www.youtube.com/embed/ZtB0vJMGve4" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
