@@ -47,7 +47,7 @@ Digits in any measurement that are known with ==certainty== with an additional o
 	* All nonzero digits are significant.
 	* Zeros between nonzero digits are significant.
 	* Zeros to the right of the decimal point and a nonzero digit are significant.
-4. $0.0670G - 3$
+4. $0.0670g - 3$
 	* Zeros to the left of the first nonzero digit are not significant.
 	* Zeros to the right of the decimal point and a nonzero digit are significant.
 5. $3.60 \times 10^-4 = 3$
