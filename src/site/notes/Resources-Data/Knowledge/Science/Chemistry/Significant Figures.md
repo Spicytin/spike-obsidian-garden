@@ -29,13 +29,13 @@ Digits in any measurement that are known with ==certainty== with an additional o
 	   Measured numbers: $3 \times 10^3$
 	   Number of Significant figures: **1**
 > [!note]
-> In scientific notation, $3 \times 10^3 = 3,000$
+> In scientific notation: $3 \times 10^3 = 3,000$
 7. Zeros used as placeholders ($502 \times 10^-3$) in a large number without a decimal point are not significant.
 	   Example:
 	   Measured numbers: $1.243 \times 10^-3$
 	   Number of Significant figures: **4**
 > [!note]
-> In scientific notation, $1.243 \times 10^-3 = .001243$
+> In scientific notation: $1.243 \times 10^-3 = .001243$
 
 
 ## Examples
@@ -55,7 +55,7 @@ Digits in any measurement that are known with ==certainty== with an additional o
 	* Zeros to the right of the decimal point and a nonzero digit are significant.
 
 > [!note]
-> In scientific notation for number 5, $3.60 \times 10^-4 = .000360$
+> In scientific notation for number 5: $3.60 \times 10^-4 = .000360$
 
 
 ## Videos
