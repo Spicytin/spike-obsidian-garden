@@ -60,4 +60,4 @@ Digits in any measurement that are known with ==certainty== with an additional o
 
 ## Video Tutorial
 
-<iframe src="https://www.youtube.com/embed/l2yuDvwYq5g" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![](https://www.youtube.com/watch?v=l2yuDvwYq5g)
