@@ -56,3 +56,8 @@ Digits in any measurement that are known with ==certainty== with an additional o
 
 > [!note]
 > In scientific notation for number 5, $3.60 \times 10^-4 = .000360$
+
+
+## Videos
+
+![](https://www.youtube.com/watch?v=l2yuDvwYq5g)

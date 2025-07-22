@@ -25,3 +25,6 @@ To be in proper scientific notation, the number must be written with:
 11. $1.5 \times 10^7 = 15,000,000$
 12. $1.2916 \times 10^7$ acres $= 12,916,000$ acres
 
+## Videos
+
+![](https://www.youtube.com/watch?v=ZtB0vJMGve4)
