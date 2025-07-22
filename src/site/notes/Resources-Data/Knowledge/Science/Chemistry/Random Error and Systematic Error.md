@@ -45,5 +45,7 @@ $$\% \text{error} = \frac{\text {Experimental value} - \text{True value}}{\text 
 	   $\% \text{error} = \left| \dfrac{0.14}{8.96} \right| \times 100\%$
 	3. Divide:
 	   $\% \text{error} = \left| 0.015 \right| \times 100\%$
-	4. Multiply by 100 to Get the Percentage:
+	4. Remove the Absolute Value:
+ 	   $\% \text{error} = 0.015 \times 100\%$
+	5. Multiply by 100 to Get the Percentage:
 	   $\% \text{error} = 1.5 \%$
