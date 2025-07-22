@@ -39,7 +39,7 @@ $$\% \text{error} = \frac{\text {True value} - \text{experimental value}}{\text 
 	5. Multiply by 100 to Get the Percentage:
 	   $\% \text{error} = 2\%$
 3. A scientist is investigating the density of a newly discovered metal. According to the literature, the **true density** of this metal is known to be $8.96 g/cm^3$. The scientist conducts an **experiment** to measure the density and finds that the **experimental value** is $9.10 g/cm^3$. To evaluate the accuracy of the experimental measurement, the scientist needs to calculate the percent error.
-	1. Plug in the Values
+	1. Plug in the Values:
 	   $\% \text{error} = \left| \dfrac{9.10 - 8.96}{8.96} \right| \times 100\%$
 	2. Perform the Subtraction:
 	   $\% \text{error} = \left| \dfrac{0.14}{8.96} \right| \times 100\%$
