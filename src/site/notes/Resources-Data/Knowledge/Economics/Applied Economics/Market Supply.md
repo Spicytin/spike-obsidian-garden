@@ -19,7 +19,7 @@ It states that ==when the price goes up, the supply goes up, and when the price 
 
 ### The Supply Curve
 
-![Pasted image 20250727184352.png|Law of Supply](/img/user/Pasted%20image%2020250727184352.png)
+![Pasted image 20250727184352.png|Law of Supply](/img/user/References/Economics/Images/Pasted%20image%2020250727184352.png)
 
 The **supply curve** is a graph that depicts a ==direct or positive relationship== between the price of a commodity and the amount of output that a seller is willing to supply at a given point in time, all other factors being equal. The **supply curve** depicts a ==positive or direct link== between the commodity's price and the quantity available in the market.
 
