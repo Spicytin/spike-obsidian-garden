@@ -7,7 +7,7 @@
 ## Introduction
 No matter if you are writing a **book report**, a **movie review**, a **newspaper article**, a **journal entry** or even just your **daily to-do list**, you are writing for a ==specific purpose==. That purpose determines the type of writing.
 
-## Persuasive Writing
+## <mark style="background: #ABF7F7A6;">Persuasive Writing</mark>
 The purpose of **<mark style="background: #ABF7F7A6;">persuasive writing</mark>** is to:
 * Convince the reader to ==agree with the writer's opinion==.
 * Influence the reader's ==point of view== of a topic.
@@ -19,19 +19,19 @@ The purpose of **<mark style="background: #ABF7F7A6;">persuasive writing</mark>*
 * **Reviews**
 * **Editorials**
 
-### Basics
-#### Key Features:
+### <mark style="background: #ABF7F7A6;">Basics</mark>
+#### <mark style="background: #ABF7F7A6;">Key Features:</mark>
 * Clearly stated opinion, point of view or claim.
 * Strong reasoning that is ==logical, convincing, and relevant==.
 * Evidence that is ==well-researched== and specific (**facts**, **examples**, **quotes**, etc.).
 
-#### Tips & Techniques
+#### <mark style="background: #ABF7F7A6;">Tips & Techniques</mark>
 * Use a **counterargument** to further ==promote your claim==.
 * Use **word choice** to ==build a relationship with the reader==.
 * Use **repetition** to ==reinforce your point of view==.
 * Ask questions that get your reader ==thinking critically==.
 
-## Expository Writing
+## <mark style="background: #FFF3A3A6;">Expository Writing</mark>
 The purpose of **<mark style="background: #FFF3A3A6;">expository writing</mark>** is to:
 * Inform readers of a topic.
 * Explain ==ideas and concepts==.
@@ -44,19 +44,19 @@ Like its name suggests, **<mark style="background: #FFF3A3A6;">expository writin
 * **News Reports**
 * **Instructions**
 
-### Basics
-#### Key Features
+### <mark style="background: #FFF3A3A6;">Basics</mark>
+#### <mark style="background: #FFF3A3A6;">Key Features</mark>
 * Facts, details and other examples from ==reliable sources==.
 * ==Unbiased explanations and information== related to the topic.
 * Text features that ==enhance the information== (**images**, **charts**, **captions**, etc.).
 
-#### Tips & Techniques
+#### <mark style="background: #FFF3A3A6;">Tips & Techniques</mark>
 * ==Research your topic thoroughly== before you begin writing.
 * ==Consider the structure== when organizing your information.
 * ==Remain objective== in your explanations.
 * Begin with a ==strong thesis statement==.
 
-## Narrative Writing
+## <mark style="background: #FF5582A6;">Narrative Writing</mark>
 The purpose of **<mark style="background: #FF5582A6;">narrative writing</mark>** is to:
 * Entertain the reader.
 * Tell stories—realistic or imaginary.
@@ -69,19 +69,19 @@ The purpose of **<mark style="background: #FF5582A6;">narrative writing</mark>**
 * **Plays**
 * **Novels**
 
-### Basics
-#### Key Features
+### <mark style="background: #FF5582A6;">Basics</mark>
+#### <mark style="background: #FF5582A6;">Key Features</mark>
 * **Literary elements** such as ==characters, setting, problem, solution and theme==.
 * Clear event sequences that build on one another.
 * **Dialogue** and descriptive details.
 
-#### Tips & Techniques
+#### <mark style="background: #FF5582A6;">Tips & Techniques</mark>
 * Use **sensory language** to ==bring the story to life==.
 * Structure the plot carefully (**foreshadowing**, **flashbacks**, etc.).
 * Introduce the story in a way that ==hooks your reader==.
 * Consider how point of view ==influences the plot==.
 
-## Descriptive Writing
+## <mark style="background: #FFB86CA6;">Descriptive Writing</mark>
 The purpose of **<mark style="background: #FFB86CA6;">descriptive writing</mark>** is to:
 * Describe a **person**, **place**, **thing**, or **idea**.
 * Create a strong visual through ==vivid descriptions==.
@@ -93,13 +93,13 @@ The purpose of **<mark style="background: #FFB86CA6;">descriptive writing</mark>
 * **Observations**
 * **Lyrics**
 
-### Basics
-#### Key Features
+### <mark style="background: #FFB86CA6;">Basics</mark>
+#### <mark style="background: #FFB86CA6;">Key Features</mark>
 * ==Detailed descriptions== of **people**, **events**, **characters**, **ideas** or **places**.
 * Precise language and word choice.
 * Non-literal language.
 
-#### Tips & Techniques
+#### <mark style="background: #FFB86CA6;">Tips & Techniques</mark>
 * Appeal to the senses (**see**, **hear**, **taste**, **touch**, **smell**).
 * Use **figurative language** such as **similes**, **metaphor**, and **personification**.
 * Use ==strong verbs and vivid adjectives==.
