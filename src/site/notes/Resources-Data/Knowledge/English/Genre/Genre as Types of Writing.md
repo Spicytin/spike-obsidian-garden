@@ -20,7 +20,7 @@ The purpose of **<mark style="background: #ABF7F7A6;">persuasive writing</mark>*
 * **Editorials**
 
 ### <mark style="background: #ABF7F7A6;">Basics</mark>
-#### <mark style="background: #ABF7F7A6;">Key Features:</mark>
+#### <mark style="background: #ABF7F7A6;">Key Features</mark>
 * Clearly stated opinion, point of view or claim.
 * Strong reasoning that is ==logical, convincing, and relevant==.
 * Evidence that is ==well-researched== and specific (**facts**, **examples**, **quotes**, etc.).
