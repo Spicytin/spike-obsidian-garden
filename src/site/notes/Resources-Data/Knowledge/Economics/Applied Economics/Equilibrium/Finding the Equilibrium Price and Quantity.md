@@ -22,8 +22,7 @@ Where:
 * $P =$ Price
 ** **
 
-Using the previous example as shown [here](Market%20Equilibrium.md), let us find the price and quantity **equilibrium** in the market
-
+Using the previous example as shown [here](Market%20Equilibrium.md), let us find the price and quantity **equilibrium** in the market:
 
 | **Steps**                                                                                                 | **Demand**                                                                                                                                           | **Supply**                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
