@@ -10,7 +10,7 @@ No matter if you are writing a **book report**, a **movie review**, a **newspape
 ## <mark style="background: #ABF7F7A6;">Persuasive Writing</mark>
 The purpose of **<mark style="background: #ABF7F7A6;">persuasive writing</mark>** is to:
 * Convince the reader to ==agree with the writer's opinion==.
-* Influence the reader's ==point of view== of a topic.
+* Influence the reader's ==point of view of a topic==.
 * Motivate the reader to take action.
 
 **<mark style="background: #ABF7F7A6;">Persuasive writing</mark>** uses ==logic, reasoning, and convincing evidence== as the basis of the writing. **<mark style="background: #ABF7F7A6;">Persuasive writing</mark>** is sometimes known as **argumentative writing**. **<mark style="background: #ABF7F7A6;">Persuasive writing</mark>** can be ==inspiring, motivating, and controversial==. Common examples include:
