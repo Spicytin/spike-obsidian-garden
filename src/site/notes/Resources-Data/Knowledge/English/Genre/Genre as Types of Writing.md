@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/resources-data/knowledge/english/genre/genre-as-types-of-writing/"}
 ---
 
-## Introduction
 No matter if you are writing a **book report**, a **movie review**, a **newspaper article**, a **journal entry** or even just your **daily to-do list**, you are writing for a ==specific purpose==. That purpose determines the type of writing.
 
 ## <mark style="background: #ABF7F7A6;">Persuasive Writing</mark>
