@@ -21,7 +21,7 @@ For instance, given the price of ₱30.00 the buyer is willing to purchase 150 u
 
 ![Demand Schedule of Pork.png](/img/user/References/Economics/Images/Demand%20Schedule%20of%20Pork.png)
 
-**Result**: Demands for purchasing pork become less as the prices rises.
+**Result**: Demands for purchasing pork become less as the prices increases.
 
 2. **Supply Schedule of Bangus**
 
