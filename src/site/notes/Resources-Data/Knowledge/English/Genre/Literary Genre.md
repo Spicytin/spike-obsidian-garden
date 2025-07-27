@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/resources-data/knowledge/english/genre/literary-genre/"}
 ---
 
-**Genre** - a particular style or type of writing.
-
 ## Most Common Genres:
 
 

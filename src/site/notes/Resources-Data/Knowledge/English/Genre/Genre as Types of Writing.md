@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/resources-data/knowledge/english/genre/genre-as-types-of-writing/"}
 ---
 
-**Genre** - a category of writing that follows ==certain styles, structures, and purposes==. It helps the writer ==express ideas== appropriately and the readers what to expect.
-
 ## Introduction
 No matter if you are writing a **book report**, a **movie review**, a **newspaper article**, a **journal entry** or even just your **daily to-do list**, you are writing for a ==specific purpose==. That purpose determines the type of writing.
 
