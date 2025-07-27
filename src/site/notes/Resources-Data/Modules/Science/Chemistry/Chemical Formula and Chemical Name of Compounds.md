@@ -50,7 +50,7 @@ Examples:
 ##### Writing the Formula
 Let's use **Carbon Tetrachloride** as an example:
 1. **Identify the Prefixes** in the name:
-	* **Carbon** = **1**= (no prefix = **mono**, but we don't write "***mono***" for the first **element**.)
+	* **Carbon** = **1** (no prefix = **mono**, but we don't write "***mono***" for the first **element**.)
 	* **Tetrachloride** = **4 chlorine atoms**
 2. **Write the Symbols and Numbers**:
 	Formula: $CCI_4$
