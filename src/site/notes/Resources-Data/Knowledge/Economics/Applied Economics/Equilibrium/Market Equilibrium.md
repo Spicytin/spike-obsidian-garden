@@ -51,7 +51,7 @@ For instance, given the price of ₱30.00 the buyer is willing to purchase 150 u
 
 The intersection of the market supply and demand curves is where a **market's equilibrium** price and quantity are found. The **equilibrium price** in the example above is ₱30.00, with a quantity demanded and supplied of 150 units.
 
-##### What happens when there is market disequilibrium?
+### What happens when there is market disequilibrium?
 When there is **market disequilibrium**, two conditions may happen: there is a **surplus** or either a **shortage** as shown in the example above.
 
 * **Surplus** - a market condition in which the quantity supplied ==exceeds the amount required==; when there is **surplus**, sellers are more likely to cut market prices in order to quickly dispose of products and services.
