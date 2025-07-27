@@ -40,3 +40,5 @@ A **supply schedule** is a table that shows how much of a product will be suppli
 | 75                      | 690                                     |
 
 ![Joy's Supply Schedule for Beans.png|Joy’s Supply Curve](/img/user/References/Economics/Images/Joy's%20Supply%20Schedule%20for%20Beans.png)
+
+**Result**: Initially, *Joy*'s beans had zero supply when it costed at ₱30 until the price goes down to ₱26.25. Then, the price and her supply of beans rises together, up to ₱75 for 690 quantities per month.

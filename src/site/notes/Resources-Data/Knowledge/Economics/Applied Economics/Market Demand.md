@@ -47,3 +47,4 @@ A **demand schedule** is a table showing how much of a given product a household
 
 ![Nina Demand Curve.png](/img/user/References/Economics/Images/Nina%20Demand%20Curve.png)
 
+**Result**: The demands for Nina's telephone calls decreases to zero as her prices go up.
