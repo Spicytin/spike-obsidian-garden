@@ -19,6 +19,6 @@ $$Q_s = Q_D$$
 Where:
 * $Q_d =$ **Quantity Demanded**
 * $Q_s =$ **Quantity Supplied**
-* $P$ = Price
+* $P =$ Price
 ** **
 
