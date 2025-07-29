@@ -36,7 +36,9 @@ They're all **Hydrogen** because they have **1 proton**, but they have different
 
 ** **
 The format to write an **isotope** is:
-$$^{A}_{Z}X$$
+$$
+^{A}_{Z}X
+$$
 
 * **A** = **Mass number** (**protons** + **neutrons**)
 * **Z** = **Atomic number** (number of **protons**)
@@ -51,7 +53,9 @@ Because elements exist in nature as a mixture of **isotopes**, we use a ==weight
 
 ### Formula:
 
-$$\text{Atomic Mass} = (\text{Mass} \times \text{Percent Abundance}) + (\text{Mass} \times \text{Percent Abundance})$$
+$$
+\text{Atomic Mass} = (\text{Mass} \times \text{Percent Abundance}) + (\text{Mass} \times \text{Percent Abundance})
+$$
 
 > [!note]
 > Convert the percentage into decimal form by dividing by 100 (e.g. $75.53\% \Rightarrow 0.7553$)

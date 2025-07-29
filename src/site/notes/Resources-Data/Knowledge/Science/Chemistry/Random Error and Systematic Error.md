@@ -13,7 +13,9 @@
 ** **
 The error that occurs in measurement is often expressed as a percent error. It is computed as follows:
 
-$$\% \text{error} = \frac{\text {Experimental value} - \text{True value}}{\text {True value}} \times 100\% $$
+$$
+\% \text{error} = \frac{\text {Experimental value} - \text{True value}}{\text {True value}} \times 100\%
+$$
 
 ### Examples
 1. A chemist is testing the concentration of a salt solution. The label on the bottle **claims** that the solution has a concentration of $5.0 \text{mol/L}$. During testing, the chemist measures the concentration and records a value of $4.8 \text{mol/L}$. To determine how close the measured concentration is to the label's claim, the chemist needs to calculate the percent error.
