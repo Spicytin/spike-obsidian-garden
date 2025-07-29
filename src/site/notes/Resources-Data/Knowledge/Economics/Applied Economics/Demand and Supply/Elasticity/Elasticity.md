@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/resources-data/knowledge/economics/applied-economics/demand-and-supply/elasticity/elasticity/"}
 ---
 
-A measure of ==how strong [[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Market Demand#Demand\|demand]] and [[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Market Supply#Supply\|supply]] respond== to changes in their determinants, which shape market conditions
+A measure of ==how strong [[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Market Demand#Demand\|demand]] and [[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Market Supply#Supply\|supply]] respond== to changes in their determinants, which shape market conditions.
 
 The **coefficient of elasticity** is the number obtained when the percent change in demand is divided by the percent change in their determinant.
 
