@@ -29,7 +29,7 @@ Digits in any measurement that are known with ==certainty== with an additional o
 	   Measured numbers: $3 \times 10^3$
 	   Number of Significant figures: **1**
 > [!note]
-> In scientific notation: $3 \times 10^3 = 3,000$
+> In [[Resources-Data/Knowledge/Science/Chemistry/Scientific Notation\|scientific notation]]: $3 \times 10^3 = 3,000$
 7. Zeros used as placeholders ($502 \times 10^-3$) in a large number without a decimal point are not significant.
 	   Example:
 	   Measured numbers: $1.243 \times 10^-3$

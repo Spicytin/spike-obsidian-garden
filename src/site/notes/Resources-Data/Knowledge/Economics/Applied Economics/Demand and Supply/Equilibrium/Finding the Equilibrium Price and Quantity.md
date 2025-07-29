@@ -28,7 +28,7 @@ Where:
 * $P =$ Price
 ** **
 
-Using the previous example as shown [here](Market%20Equilibrium.md), let us find the price and quantity **equilibrium** in the market:
+Using the previous example as shown [[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Equilibrium/Market Equilibrium#Demand and Supply Schedule Indicating the Equilibrium Price and Equilibrium Quantity\|here]], let us find the price and quantity **equilibrium** in the market:
 
 | **Steps**                                                                                                 | **Demand**                                                                                                                          | **Supply**                                                                                                                     |
 | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
