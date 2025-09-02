@@ -35,7 +35,7 @@
 
 1. A dancer and choreographer credited with the launching of the modern dance movement in ==Los Angeles, California, USA== and for establishing the country's ==first racially integrated dance company==.
 2. His initial interest in movement was ==inspired by Native American dance== that he had been fascinated by Native American culture since childhood.
-3. The career developed a dance training technique that continued to be used by instructors into the 21st century.
+3. The career developed a dance training technique that continued to be used by instructors into the ==21st century==.
 
 ## Contemporary Dance
 
