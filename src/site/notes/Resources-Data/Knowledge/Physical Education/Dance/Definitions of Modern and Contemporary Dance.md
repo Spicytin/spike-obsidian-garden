@@ -10,5 +10,5 @@
 | Movement was followed by the postmodern dance movement aimed to break away from compositional constraints of modern.                                                                                             | It can be used to describe any dancing that is ==new, different, or untraditional==. It can include elements of many kinds of dance including non-western dance forms. |
 
 > [!note]
-> Even if both dances have different definition, but hey have similarities in terms of rebelling against the strict rules of ballet and creating new form of dance with a touch of individuality.
+> Even if both dances have different definition, but they have similarities in terms of rebelling against the strict rules of ballet and creating new form of dance with a touch of individuality.
 
