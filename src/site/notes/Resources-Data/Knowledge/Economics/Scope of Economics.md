@@ -12,7 +12,7 @@ It examines ==individual economic activity, industries, and their interaction==.
 
 It has the following characteristics:
 
-* **[[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Elasticity/Elasticity\|Elasticity]]** - ==the ratio of change in the percentage== of one variable to another is determined by **elasticity**. For example, **[[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Elasticity/Demand Elasticity/Demand Elasticity\|Demand Elasticity]]** of income, **demand elasticity** of price, **demand elasticity** of supply, and so on.
+* **[[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Elasticity/Elasticity\|Elasticity]]** - ==the ratio of change in the percentage== of one variable to another is determined by **elasticity**. For example, **[[Resources-Data/Knowledge/Economics/Applied Economics/Demand and Supply/Elasticity/Demand Elasticity/Demand Elasticity\|demand elasticity]]** of income, **demand elasticity** of price, **demand elasticity** of supply, and so on.
 * **Theory of Production** - entails the conversion of ==inputs into outputs== in a cost-effective manner. **Packaging**, **shipping**, **storage**, and **manufacturing** are only a few examples.
 * **Cost of Production** - evaluates the ==object price== based on the ==cost of resources==.
 * **Monopoly** - in this theory, the dominance of a single entity in a certain field is ==investigated==.
