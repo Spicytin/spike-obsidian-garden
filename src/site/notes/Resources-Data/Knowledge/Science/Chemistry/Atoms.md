@@ -12,7 +12,7 @@ Composed of three primary **subatomic particles**: **protons**, **neutrons**, an
 | **Neutron**  | No charge (0) | **Nucleus**                     | Contributes to the **atomic mass**.              |
 | **Electron** | Negative (-)  | Orbitals around the **nucleus** | Involved in ==chemical bonding and properties==. |
 
-## ## How to Calculate Atomic Mass
+## How to Calculate Atomic Mass
 Because elements exist in nature as a mixture of **[[Resources-Data/Knowledge/Science/Chemistry/Isotopes\|isotopes]]**, we use a ==weighted average== to calculate their **atomic mass**. This gives us a more accurate **mass** than just picking one **isotope**
 
 ### Formula:
