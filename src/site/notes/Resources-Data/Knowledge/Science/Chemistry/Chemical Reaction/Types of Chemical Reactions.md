@@ -62,7 +62,7 @@ One **element** replaces another **element** in a **compound**.
 $$A + BC \rightarrow AC + B$$
 
 * Whether the **reaction** occurs depends on the ==reactivity of the element== (**Reactivity Series**).
-* **Metals** replace **metals**; **nonmetals** (like **halogens**) replace **nonmetals**.
+* **Metals** replace **metals**; **nonmetals** (like ***halogens***) replace **nonmetals**.
 
 ### Examples
 1. **Metal** replacing ***hydrogen***:
@@ -73,7 +73,7 @@ $$Zn(s) + 2HCl(aq) \rightarrow ZnCl_2(aq) + H_2(g)$$
 $$Cl_2(g) + 2KBr(aq) \rightarrow 2KCl(aq) + Br_2(l)$$
 
 > [!note]
-> A less reactive **element** cannot replace a more reactive one
+> A less reactive **element** cannot replace a more reactive one.
 
 
 ## Double Replacement (Metathesis) Reaction
