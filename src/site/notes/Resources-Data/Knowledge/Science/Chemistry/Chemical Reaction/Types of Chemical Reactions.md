@@ -68,7 +68,7 @@ $$A + BC \rightarrow AC + B$$
 1. **Metal** replacing ***hydrogen***:
 $$Zn(s) + 2HCl(aq) \rightarrow ZnCl_2(aq) + H_2(g)$$
 
-2. **Halogen** replacing **halogen**:
+2. ***Halogen*** replacing ***halogen***:
 
 $$Cl_2(g) + 2KBr(aq) \rightarrow 2KCl(aq) + Br_2(l)$$
 
