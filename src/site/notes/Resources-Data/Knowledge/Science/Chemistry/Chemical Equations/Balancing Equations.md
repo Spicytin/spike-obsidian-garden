@@ -24,6 +24,4 @@
 
 ## Video Tutorials
 
-<iframe src="https://www.youtube.com/embed/e_C-V5vJv80" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 <iframe src="https://www.youtube.com/embed/iUARzSxcKzk" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
