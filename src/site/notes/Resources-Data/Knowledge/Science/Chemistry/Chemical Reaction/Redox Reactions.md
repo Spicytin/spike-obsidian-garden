@@ -21,3 +21,6 @@ Every day, **redox reactions** (**reduction**-**oxidation** reactions) happen ar
 5. Balance charges by adding **electrons** ($e^-$).
 6. Multiply half-reactions to equalize $e^-$ transferred.
 7. Add and cancel common species.
+
+** **
+* [[Resources-Data/Knowledge/Science/Chemistry/Chemical Reaction/Redox Reactions/Oxidation Numbers (Oxidation States)\|Oxidation Numbers (Oxidation States)]]

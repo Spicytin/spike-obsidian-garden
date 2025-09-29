@@ -35,3 +35,6 @@ However, when one player is off their game for that day, it can affect both team
 While this classification of **sport** has its own advantages, one should not disregard its disadvantages as well. The==social aspect== is definitely not a strength of this **sport**. Since the athlete competes alone in **individual sports**, the formation of bonds as those who play **dual sports** is ==not nurtured==. Another disadvantage is ==sowing unhealthy competition== between pairs. This can create a spiteful environment and can cause ==feelings of inadequacy== to the players.
 
 Moreover, the lack of support from a co-athlete can be difficult in certain situations. During times of a losing streak, it is critical for the athlete to maintain their play when their confidence is gravely affected.
+
+** **
+* [[Resources-Data/Knowledge/Physical Education/Sports/Individual & Dual Sports/List of Individual & Dual Sports\|List of Individual & Dual Sports]]

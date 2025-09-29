@@ -66,5 +66,8 @@
 | Science and nature writing        |                   |
 | Mosaic, vignette, or hybrid piece |                   |
 
+** **
+* [[Resources-Data/Knowledge/Creative Writing/Creative Nonfiction/Analyzing and Presenting a Creative Nonfiction\|Analyzing and Presenting a Creative Nonfiction]]
+* [[Resources-Data/Knowledge/Creative Writing/Creative Nonfiction/Principles, Elements, Techniques, and Literary Devices used in Creative Nonfiction\|Principles, Elements, Techniques, and Literary Devices used in Creative Nonfiction]]
 
 

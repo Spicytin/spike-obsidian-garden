@@ -9,7 +9,7 @@
 
 > *Dance styles were constantly evolving and changing according to times.*
 
-1. ==Founding mother== of **contemporary** and **modern dance**.
+1. ==Founding mother== of **[[Resources-Data/Knowledge/Physical Education/Dance/Modern and Contemporary Dance/Definitions of Modern and Contemporary Dance\|contemporary and modern dance]]**.
 2. ==Seven decades== as a dancer and choreographer.
 3. Her influence on dance has been compared with the influence of ***Picasso*** on modern visual arts, ***Stavinsky*** on music, and ***Frank Lloyd Wright*** on architecture.
 4. The first dancer ever invited to perform at the White House and received a ==medal of freedom==.
@@ -22,7 +22,7 @@
 
 1. American dancer and choreographer, forefront of the modern dance for ==more than 50 years==.
 2. He was intrigued by the potential of random phenomena as ==determinants of structure==. Inspired also by the pursuit of pure movement, as devoid as possible of emotional implications.
-3. He developed "***choreography by chance***", a technique in which selected isolated movements are assigned sequence by such random methods as tossing a coin.
+3. He developed "***choreography by chance***", a technique in which selected isolated movements are ==assigned sequence== by such random methods as tossing a coin.
 4. ***Suite by Chance*** was the ==first modern dance performed to an electronic score==, which was commissioned from American experimental composer ***Christian***.
 
 ### *Lester Horton* (*January 23, 1906* - *November 2, 1953*)
@@ -63,7 +63,7 @@
 
 ![Pasted image 20250902201836.png|250](/img/user/References/Physical%20Education/Images/Pioneers/Pasted%20image%2020250902201836.png)
 
-> *If words were adequate to describe fully what the dance can do, there would be no reason for all the mighty muscular effort, the discomfort, the sweat and the splendors of that art*
+> *If words were adequate to describe fully what the dance can do, there would be no reason for all the mighty muscular effort, the discomfort, the sweat and the splendors of that art.*
 
 1. A ==Mexican-born dancer and choreographer== organized as an important figure in the American modern dance movement of the ==1930s-1960s==.
 2. He created the **Limon techniques** that emphasize the ==natural rhythms== of fall and recovery and the interplay between weight and weightlessness to provide dancers with an organic approach to movement that easily adapts to a range of choreographic styles.
