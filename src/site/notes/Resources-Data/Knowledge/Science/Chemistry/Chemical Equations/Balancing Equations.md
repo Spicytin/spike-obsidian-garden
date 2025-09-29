@@ -21,3 +21,7 @@
 6. **Double-check your work**.
 	* Count **atoms** of each **element** again.
 	* Ensure that the number of **atoms** for every **element** is equal on both sides.
+
+## Video Tutorial
+
+<iframe src="https://www.youtube.com/embed/e_C-V5vJv80" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
