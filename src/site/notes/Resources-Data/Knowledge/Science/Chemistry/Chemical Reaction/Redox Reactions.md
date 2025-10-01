@@ -22,5 +22,9 @@ Every day, **redox reactions** (**reduction**-**oxidation** reactions) happen ar
 6. Multiply half-reactions to equalize $e^-$ transferred.
 7. Add and cancel common species.
 
+## Video Tutorial
+
+<iframe src="https://www.youtube.com/embed/dF5lB7gRtcA" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ** **
 * [[Resources-Data/Knowledge/Science/Chemistry/Chemical Reaction/Redox Reactions/Oxidation Numbers (Oxidation States)\|Oxidation Numbers (Oxidation States)]]

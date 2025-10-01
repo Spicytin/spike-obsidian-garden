@@ -37,3 +37,7 @@ $$Fe(s) + CuSO_4(aq) \rightarrow FeSO_4(aq) + Cu(s)$$
 * $Cu$: $+2 \rightarrow 0$ (**reduced**)
 $Fe =$ **reducing agent**
 $Cu^{2+} =$ **oxidizing agent**
+
+## Video Tutorial
+
+<iframe src="https://www.youtube.com/embed/j0hI-a6EWWo" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
