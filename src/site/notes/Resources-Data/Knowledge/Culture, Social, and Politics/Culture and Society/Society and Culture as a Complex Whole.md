@@ -33,4 +33,4 @@ They are any kind of ==physical phenomenon==- a word, an object, a color, a soun
 	A. **kapwa** or relational
 	B. **damdamin** or emotional
 	C. **dangal** or honor
-* **Diwa** -*kalooban* or inner self which in essence is ==intertwined reason and emotion==.
+* **Diwa** - *kalooban* or inner self which in essence is ==intertwined reason and emotion==.

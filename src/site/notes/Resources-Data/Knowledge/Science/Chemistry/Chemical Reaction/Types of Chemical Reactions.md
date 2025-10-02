@@ -92,6 +92,6 @@ $$AgNo_3(aq) + NaCl(aq) \rightarrow AgCl(s)\downarrow + NaNO_3(aq)$$
 2. **Neutralization reaction** (**acid** + base):
 $$HCl(aq) + NaOH(aq) \rightarrow NaCl(aq) + H_2O(l)$$
 
-## Video Tutorials
+## Video Tutorial
 
 <iframe src="https://www.youtube.com/embed/iIJD8RNLpS0" title="" style="width:100%; aspect-ratio:16/9" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
