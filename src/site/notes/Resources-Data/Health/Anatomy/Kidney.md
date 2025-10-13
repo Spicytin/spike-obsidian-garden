@@ -15,3 +15,6 @@ The **kidneys** are also ==vital organs== that regulate the composition of the b
 * They help regulate **blood pressure**
 * Stimulate the making of **red blood cells**; and
 * Maintain the body's **calcium** level
+
+** **
+* [[Resources-Data/Health/Anatomy/Kidney/Kidney dialysis\|Kidney dialysis]]
