@@ -38,3 +38,6 @@ In the case of consumer and corporate behavior, **economics** gives sophisticate
 Individuals can become better decision-makers in their own lives and maintain a balance with respect to an externality that has the ability to supplement or hinder their ambitions by having a grasp of the foundations of **economics**. Knowing the basics of **economics** allows an individual to be an ==active and informed participant== instead of a passive economic agent, as economic theories serve as a foundation for ==decision-making and regulatory policy==.
 
 **Economics** is a ==social science== that studies the relationship between the ==production and consumption of commodities and services== in a finite resource environment. The discipline focuses on how economic agents behave or interact both individually (***[[Resources-Data/Knowledge/Economics/Scope of Economics#Microeconomics\|microeconomics]]***) and collectively aggregate (***[[Resources-Data/Knowledge/Economics/Scope of Economics#Microeconomics\|macroeconomics]]***).
+
+** **
+* **[[Resources-Data/Knowledge/Economics/Applied Economics/Applied Economics\|Applied Economics]]**

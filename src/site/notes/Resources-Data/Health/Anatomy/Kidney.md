@@ -17,4 +17,4 @@ The **kidneys** are also ==vital organs== that regulate the composition of the b
 * Maintain the body's **calcium** level
 
 ** **
-* [[Resources-Data/Health/Anatomy/Kidney/Kidney dialysis\|Kidney dialysis]]
+* **[[Resources-Data/Health/Anatomy/Kidney/Kidney dialysis\|Kidney dialysis]]**

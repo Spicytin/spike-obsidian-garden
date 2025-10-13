@@ -20,4 +20,5 @@ Symbolic representations of chemical processes that use ==standard notation== to
 | ![[References/Science/Chemistry/Drawings/Triangle and right arrow.excalidraw\|50]]   | Reactants are ==heated==                                        | $CaCO_3 \rightarrow CaO + CO_2$ ($\triangle$ above arrow) |
 | $Pt$, $MnO_2$, etc.                            | ==Catalyst== is used                                            | $2H_2O_2 \rightarrow 2H_2O + O2$ ($MnO_2$ above arrow)    |
 
-
+** **
+* [[Resources-Data/Knowledge/Science/Chemistry/Chemical Equations/Balancing Equations\|Balancing Equations]]
