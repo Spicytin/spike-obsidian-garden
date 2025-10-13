@@ -9,9 +9,4 @@
 * Avoid taking pain pills ==regularly== and other unprescribed medicines.
 * Check with your doctor before taking any medicines.
 * Control your **blood pressure** and **cholesterol**.
-* See a doctor for **bladder** or **kidney** infections right away. You may have an infection if you have these symptoms:
-	* Pain or burning when you urinate
-	* Frequent urge to go to the bathroom
-	* **Urine** that looks ==cloudy or reddish==
-	* **Fever** or a shaky feeling; and
-	* Pain in your back or on your side below your ribs
+* See a doctor for **bladder** or **kidney** infections right away.
