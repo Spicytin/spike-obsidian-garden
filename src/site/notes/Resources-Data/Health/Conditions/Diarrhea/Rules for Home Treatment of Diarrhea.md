@@ -23,6 +23,7 @@
 	* $\underline \leftarrow$ 6 months old: breastfeed
 	* 1–6 years old: breastfeed and semi-solid food
 	* $\rightarrow$ 2 years old: regular food but those that are easy to digest: **banana**, "**aroz caldo**", rice with soup and fish
+
 > [!warning]
 > Avoid bulky, high fiber and hard to digest cereals, very dilute soups, too sweet fruit drinks, soft drinks and ice teas.
 
