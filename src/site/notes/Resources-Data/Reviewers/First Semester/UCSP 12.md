@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/resources-data/reviewers/first-semester/ucsp-12/"}
 ---
 
-1. ***Homo habilis*** - known as the "==*handy man*==" species because they were the first to use ==simple stone stools.
+1. ***Homo habilis*** - known as the "==*handy man*==" species because they were the first to use ==simple stone stools==.
 2. ***Homo erectus*** - referred to as the "*==working man==*", they were the first human species to ==control fire and cook food==.
 3. ***Homo ergaster*** - ==developed advanced tools== and migrated widely across **Africa** and **Asia**.
 4. ***Homo neanderthalensis*** - close to ==modern humans== and practiced ==burial rituals and symbolic thought==.
