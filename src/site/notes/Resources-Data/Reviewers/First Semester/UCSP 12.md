@@ -43,6 +43,6 @@
 
 ### Functions
 * Shapes ==personality and identity==
-* Teaches ==cultural norms and societal expectations
+* Teaches ==cultural norms and societal expectations==
 * Builds ==relationships and social integration==
 * Does not isolate individuals but ==connects them to society==.
