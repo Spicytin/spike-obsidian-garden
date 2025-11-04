@@ -11,7 +11,7 @@ Symbolic representations of chemical processes that use ==standard notation== to
 | $$(s)$$                                        | A reactant or product in ==solid state==                        | $NaCl(s)$                                                 |
 | $$(l)$$                                        | ==Liquid state==                                                | $H_2O(l)$                                                 |
 | $$(g)$$                                        | ==Gaseous state==                                               | $Co_2(g)$                                                 |
-| $$(aq)$$                                       | ==Aqeous state== (dissolved in water)                           | $NaCl(aq)$                                                |
+| $$(aq)$$                                       | ==Aqueous state== (dissolved in water)                          | $NaCl(aq)$                                                |
 | $$+$$                                          | ==Reacts with== / plus                                          | $H_2 + O_2$                                               |
 | ![[References/Science/Chemistry/Drawings/Right arrow.excalidraw\|50]]                | ==Yields== / produces; indicates ==results of action==          | $H_2 + O_2 \rightarrow H_2O$                              |
 | ![[References/Science/Chemistry/Drawings/Right arrow and Left arrow.excalidraw\|50]] | Used in place of single arrow to indicate ==reversible action== | $N_2 + 3H_2 \leftrightharpoons 2NH_3$                     |
