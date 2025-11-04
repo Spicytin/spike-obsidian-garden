@@ -19,7 +19,7 @@
 | ***[Exordium](https://modrinth.com/mod/exordium)***                                                                                                |                 |            |                 |
 | ***[Ferrite Core](https://modrinth.com/mod/uXXizFIs)***                                                                                            |                 |            |                 |
 | ***[Immediately Fast](https://modrinth.com/mod/5ZwdcRci)***                                                                                        |                 |            |                 |
-| ***[Iris](https://modrinth.com/mod/iris)***                                                                                                        |                 |            |                 |
+| ***[Iris](https://modrinth.com/mod/iris)*** (Fabric) / ***[Oculus](https://modrinth.com/mod/GchcoXML)*** ((Neo)Forge)                              |                 |            |                 |
 | ***[kennytvs-epic-force-close-loading-screen-mod-for-fabric](https://modrinth.com/mod/forcecloseworldloadingscreen)***                             |                 |            |                 |
 | ***Krypton*** ([Fabric](https://modrinth.com/mod/krypton), ([(Neo)Forge](https://modrinth.com/mod/krypton-fnp/versions))                           |                 |            |                 |
 | ***[Lithium](https://modrinth.com/mod/lithium)*** (Fabric) / ***[Canary](https://modrinth.com/mod/qa2H4BS9)*** (Forge)                             |                 |            |                 |
