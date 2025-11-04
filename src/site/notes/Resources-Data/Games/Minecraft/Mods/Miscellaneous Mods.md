@@ -31,6 +31,7 @@
 | ***[Screencapper](https://modrinth.com/mod/screencapper)***                                                        |                 |            |                 |
 | ***[Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg)***                                                 |                 |            |                 |
 | ***[Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat)***                                           |                 |            |                 |
+| ***[Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)***                                                |                 |            |                 |
 | ***[StackDeobfuscator](https://modrinth.com/mod/stackdeobf)***                                                     |                 |            |                 |
 | ***[Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)***                                                   |                 |            |                 |
 | ***[Xaero's World Map](https://modrinth.com/mod/NcUtCpym)***                                                       |                 |            |                 |
