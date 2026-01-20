@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/resources-data/knowledge/physical-education/recreation/outdoor-recreation/mountaineering/"}
+---
+
+Also called mountain climbing, the sport of attaining, or attempting to attain, high points in mountainous regions, mainly for the ==pleasure of the climb==. Although the term is often loosely applied to ==walking up low mountains that offer only moderate difficulties==, it is more properly restricted to climbing in localities where the terrain and weather conditions present such hazards that, for safety, a certain amount of previous experience will be found necessary. For the untrained, mountaineering is a ==dangerous pastime==.
+
+Mountaineering differs from other outdoor sports in that nature alone provides the field of action—and just about all the challenges—for the participant. Climbing mountains embodies the thrills produced by testing one's **courage**, **resourcefulness**, **cunning**, **strength**, **ability**, and **stamina** to the utmost in a situation of inherent risk. Mountaineering, to a greater degree than other sports, is a group activity, with each member both supporting and supported by the group's achievement at every stage. For most climbers, the pleasures of mountaineering lie not only in the "*conquest*" of a peak but also in the physical and spiritual satisfactions brought about through intense personal effect, ever-increasing proficiency, and contact with natural grandeur.

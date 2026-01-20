@@ -10,14 +10,23 @@ Anything that ==has mass and occupies space==. Everything on Earth has mass and 
 * **Gas** 
 * **Plasma**
 
-| **Properties**                 | **Solids**                        | **Liquids**                      | **Gases**                                |
-| ------------------------------ | --------------------------------- | -------------------------------- | ---------------------------------------- |
-| **Distance between particles** | Very close together               | Close, but with small gaps       | Far apart                                |
-| **Molecular arrangement**      | Tightly packed in a fixed pattern | Random but still close           | Random and far apart                     |
-| **Shape**                      | Definite shape                    | Takes the shape of the container | No define shape; fills the container     |
-| **Volume**                     | Definite volume                   | Definite volume                  | Indefinite volume; expands to fill space |
-| **Speed of movement**          | Very slow (vibrating only)        | Moderate                         | Very fast                                |
-| **Forces of attraction**       | Very strong                       | Moderate                         | Very weak                                |
+| **Properties**                 | **Solids**                        | **Liquids**                             | **Gases**                                |
+| ------------------------------ | --------------------------------- | --------------------------------------- | ---------------------------------------- |
+| **Distance between particles** | Very close together               | Close, but with small gaps              | Far apart                                |
+| **Molecular arrangement**      | Tightly packed in a fixed pattern | Random but still close                  | Random and far apart                     |
+| **Shape**                      | Definite shape                    | Takes the shape of the container        | No define shape; fills the container     |
+| **Volume**                     | Definite volume                   | Definite volume                         | Indefinite volume; expands to fill space |
+| **Density**                    | High                              | High                                    | Low                                      |
+| **Compressibility**            | Cannot be appreciably compressed  | Cannot be appreciably compressed        | Easy to compress                         |
+| **Speed of movement**          | Very slow (vibrating only)        | Moderate                                | Very fast                                |
+| **Forces of attraction**       | Very strong                       | Moderate                                | Very weak                                |
+
+1. All matter is made up of ==tiny particles==.
+2. These are particles in ==constant motion==.
+3. The speed of particle is ==proportional to temperature==. Increased temperature means greater speed.
+4. Solids, liquids, and gases differ in distances between particles, in the freedom of motion of particles, and in the extent to which the particles interact.
+
+![Pasted image 20260120142150.png](/img/user/References/Science/Chemistry/Images/Pasted%20image%2020260120142150.png)
 
 ## Classifications
 **Pure Substance** - one material with same composition.

@@ -6,9 +6,12 @@
 
 The **Periodic Table of Elements** is your road map for understanding chemistry. It organizes ==all known elements== by their ==properties, behaviors, and relationships with one another==.
 
+## Early Development of the Periodic Table
+***Dimitri Mendeleev*** arranged elements based on **atomic mass**, but some elements appeared out of order when their properties were compared. The discovery of **[[Resources-Data/Knowledge/Science/Chemistry/Atomic Number\|atomic number]]** solved this issue completely.
+
 ## Parts of the Periodic Table
 Each element is usually shown as a small box that contains:
-* **Atomic Number** - This is the number of **protons** (and **electrons**) in the atom. 
+* **[[Resources-Data/Knowledge/Science/Chemistry/Atomic Number\|Atomic Number]]** - This is the number of **protons** (and **electrons**) in the atom. 
 	* e.g. **6** for ***Carbon***
 * **Symbol** - A one or two-letter abbreviation 
 	* e.g. **C** for ***Carbon***

@@ -66,7 +66,7 @@
 > *If words were adequate to describe fully what the dance can do, there would be no reason for all the mighty muscular effort, the discomfort, the sweat and the splendors of that art.*
 
 1. A ==Mexican-born dancer and choreographer== organized as an important figure in the American modern dance movement of the ==1930s-1960s==.
-2. He created the **Limon techniques** that emphasize the ==natural rhythms== of fall and recovery and the interplay between weight and weightlessness to provide dancers with an organic approach to movement that easily adapts to a range of choreographic styles.
+2. He created the **Limon techniques** that emphasize the ==natural rhythms of fall and recovery== and the interplay between weight and weightlessness to provide dancers with an organic approach to movement that easily adapts to a range of choreographic styles.
 
 ### *Alice Reyes* (*Philippines*, *October 14, 1942*)
 
