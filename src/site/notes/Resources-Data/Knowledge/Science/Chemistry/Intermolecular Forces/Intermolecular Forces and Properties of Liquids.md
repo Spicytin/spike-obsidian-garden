@@ -4,6 +4,8 @@
 
 Liquids do not have a simple or regular structure, but many of their properties can be explained qualitatively by viewing them at the particulate level.
 
+![Pasted image 20260121111800.png](/img/user/References/Science/Chemistry/Images/Pasted%20image%2020260121111800.png)
+
 ## Surface Tension
 The ==measure of the elastic force== in the surface of a liquid. It is the amount of energy required to stretch or increase the surface of a liquid by a unit area. It is manifested as some sort of skin on the surface of a liquid or in a drop of liquid.
 
