@@ -30,6 +30,6 @@ Management theories developed over time as organizations became ==more complex==
 +---------------------------+-------------------------------------------------------------------------------------------------+
 | 1. **Systems Theory**     | Views the organization as a system composed of ==interrelated parts==.                          |
 +---------------------------+-------------------------------------------------------------------------------------------------+
-| 2. **Contingency Theory** | Suggests that there is no one best way to manage, management practices depend on the situation. |
+| 2. **Contingency Theory** | Suggests that there is no one best way to manage; management practices depend on the situation. |
 +---------------------------+-------------------------------------------------------------------------------------------------+
 

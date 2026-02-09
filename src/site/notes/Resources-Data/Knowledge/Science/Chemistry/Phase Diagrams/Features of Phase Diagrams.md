@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/resources-data/knowledge/science/chemistry/phase-diagrams/features-of-phase-diagrams/"}
 ---
 
-**[[Resources-Data/Knowledge/Science/Phase Diagrams\|Phase Diagrams]]** are ==plots of pressure== (usually in atmospheres) versus temperature (usually in degrees Celsius or Kelvin).
+**[[Resources-Data/Knowledge/Science/Chemistry/Phase Diagrams\|Phase Diagrams]]** are ==plots of pressure== (usually in atmospheres) versus temperature (usually in degrees Celsius or Kelvin).
 
 ## The Three Area
 These are marked solid, liquid, and vapor. Under a set of conditions in the diagram, a substance can exist in a solid, liquid, or vapor (gas) phase.
